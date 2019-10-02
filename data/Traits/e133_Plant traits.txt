@@ -1,0 +1,228 @@
+
+Cedar Creek Ecosystem Science Reserve Dataset: aafe133
+
+Cedar Creek Ecosystem Science Reserve
+2660 Fawn Lake Dr. NE
+Bethel, MN 55005
+Office:  763-434-5131
+Fax:  763-434-7361
+
+_________________________________________________________________________
+
+USER AGREEMENT:  As a condition for access to data provided by researchers of the Cedar Creek LTER, I agree to abide by the following code of ethics.
+
+A. I agree to notify the Cedar Creek LTER scientists who gathered data if I would like to use those data in any publication. I acknowledge that these data were gathered by Cedar Creek scientists because they had already perceived the importance of these data for a variety of scientific and societal issues. I will provide them with formal recognition that, at their discretion, may include co-authorship or acknowledgements on publications.
+
+B. I realize that the researchers who gathered these data may be using them for scientific analyses, papers or publications that are currently planned or in preparation, and that such activities have precedence over any that I might wish to prepare. In this case, my preparation of any work may be delayed, at the option of the Cedar Creek researchers involved, until their work is completed.
+
+C. Because it may be possible to misinterpret a data set if it is taken out of context, I will seek the assistance and opinion of those Cedar Creek researchers involved in the design of a study and the collection of the data as I analyze the data. Moreover, I realize that this computer data set is not complete, and it may contain errors. The complete data set includes extensive written documentation, which should be referenced to reduce the chance of errors in data and errors of interpretation.
+
+_________________________________________________________________________
+
+
+
+This study examines the effects of long-term prescribed burning treatments on vegetation structure and composition, productivity, and nutrient cycling in upland oak savanna and woodland vegetation. The basis for the study is an ongoing, experimental prescribed burning program begun in 1964 at Cedar Creek, and a similar program operating since 1962 on the adjacent Helen Allison Savanna property (owned by The Nature Conservancy). These prescribed burning programs are designed to subject upland oak communities (and some old fields) to different burn frequencies and patterns of burning, with the ultimate objectives of 1) restoring and maintaining the historically important savanna and open woodland vegetation, and 2) providing information about the effects of different burning patterns on vegetation structure and composition. This study addresses the latter of these two purposes and expands on it by also investigating possible influences of fire on resource availability (nutrients, water, and light) and net primary productivity. This study represents a continuation and expansion of experiments 015 and 094. 
+
+_________________________________________________________________________
+
+METHODS AND PROTOCOLS FOLLOW DATA
+
+
+Experiment Investigators:
+
+Reich, Peter 
+Wedin, David 
+Hobbie, Sarah 
+Davis, Mark 
+ 
+
+ATTRIBUTES:
+
+Field 1 | Name: Species | Definition: Species name 
+Field 2 | Name: Ave FLW w/o petiole (g) | Definition: Average fresh leaf weight without petiole | Unit: gram 
+Field 3 | Name: Ave FLW (g) | Definition: Average fresh leaf weight with petiole | Unit: gram 
+Field 4 | Name: Ave DLW w/o Petiole (g) | Definition: Average dry leaf weight without petiole | Unit: gram 
+Field 5 | Name: Ave DLW (g) | Definition: Average dry leaf weight | Unit: gram 
+Field 6 | Name: Ave LWF | Definition: average leaf water fraction | Unit: dimensionless 
+Field 7 | Name: Ave Leaf Length (mm) | Definition: Ave Leaf Length (mm) | Unit: millimeter 
+Field 8 | Name: Ave Leaf Width (mm) | Definition: Ave Leaf Width (mm) | Unit: gram 
+Field 9 | Name: Ave Petiol Length (mm) | Definition: Ave Petiol Length (mm) | Unit: gram 
+Field 10 | Name: Ave Area (mm^2) | Definition: Average laminar leaf area | Unit: squareMillimeters 
+Field 11 | Name: Ave Perimeter (mm) | Definition: Average leaf perimeter | Unit: millimeter 
+Field 12 | Name: Ave SLA (cm^2/g) | Definition: Average specific leaf area | Unit: centimetersSquaredPerGram 
+
+
+Data:
+
+Species	Ave FLW w/o petiole (g)	Ave FLW (g)	Ave DLW w/o Petiole (g)	Ave DLW (g)	Ave LWF	Ave Leaf Length (mm)	Ave Leaf Width (mm)	Ave Petiol Length (mm)	Ave Area (mm^2)	Ave Perimeter (mm)	Ave SLA (cm^2/g)Acer rubrum	0.34	0.39	0.08	0.09	0.65	81.69	65.8	39.13	3058.62	334.15	317.18Achillea millefolium	0.67	0.78	0.14	0.15	0.77	173.75	32.33	68.85	2017.59	834.67	158.11Agropyron repens	0	0	0.04	0.04	0	0	0	0	497.66	0	134.27Agrostis scabra	0	0	0.02	0.02	0	0	0	0	150.53	0	90.85Ambrosia artemisiifolia	0.23	0.25	0.05	0.05	0.79	67.89	47.26	12.75	1134.98	528.8	261.91Ambrosia coronopifolia	0.22	0.22	0.05	0.05	0.79	78.56	54.75	29.85	1037.09	601.03	187.48Amorpha canescens	0.21	0.21	0.06	0.06	0.64	92.37	29.29	0	1326.85	764.14	181.48Amphicarpa bracteata	0.11	0.12	0.03	0.03	0.76	61.8	57.73	35.11	1411.27	314.89	600.98Andropogon gerardii	0.37	0.37	0.07	0.07	0.69	399.81	8.13	0	1363.4	817.37	180.41Anemone cylindrica	0.31	0.41	0.11	0.14	0.67	47.57	55.05	99.92	1636.54	525.24	159.9Apocynum androsaemifolium	0.15	0.15	0.05	0.05	0.67	53.9	22.08	3.03	873.04	139.13	192.85Apocynum sibiricum	0.14	0.23	0.04	0.04	0.68	56.14	22.88	2.03	961.51	143.24	221.85Arabis divaricarpa	0	0	0.01	0.01	0	0	0	0	125.08	0	208.47Aristida basiramea	0.04	0.04	0	0	0.59	138.48	2.03	0	64.51	285.04	328.92Artemisia ludoviciana	0.11	0.11	0.03	0.03	0.7	63.41	10.79	0	489.03	155.86	183.82Asclepias ovalifolia	0.34	0.34	0.06	0.06	0.81	78.91	24.31	4.47	1450.46	205.44	272.96Asclepias syriaca	1.32	1.34	0.16	0.16	0.83	109.03	45.75	6.82	3861.14	270.96	211.42Asclepias tuberosa	0.11	0.11	0.02	0.02	0.75	65.4	8.28	3.57	435.15	150.16	187.31Aster azureus	0.3	0.38	0.05	0.08	0.82	78.83	25.8	69.62	1325.55	179.03	252.63Aster ericoides	0	0	0	0	0.67	0.52	0.07	0	0.03	1.16	0.28Aster simplex	0.13	0.13	0.03	0.03	0.79	49.5	24.02	6.81	743.66	133.29	275.43Berteroa incana	0	0	0	0	0	0	0	0	139.56	0	527.87Bouteloua curtipendula	0.12	0.12	0.05	0.05	0.55	231.54	4.32	0	549.52	488.41	104.25Bouteloua hirsuta	0.01	0.01	0	0	0.54	65.53	1.41	0	77.04	143.51	136.42Bromus inermis	0.12	0.12	0.06	0.06	0.68	188.92	7.23	0	1047.41	401.02	203.41Calamagrostis canadensis	0.16	0.16	0.06	0.06	0.6	240.15	6.81	7.69	1055.85	644.28	169.73Calamovilfa longifolia	0.24	0.24	0.1	0.1	0.57	385.78	4.98	0	957.15	813.21	105.29Campanula rotundifolia	0.02	0.02	0	0	0.79	58.74	2.68	0	100.6	132.04	245.32Celastrus scandens	0.2	0.21	0.04	0.04	0.79	68.62	36.04	10.96	1490.93	197.39	377.12Chenopodium album	0.07	0.08	0.02	0.02	0.75	32.71	17.94	13.84	372.94	88.08	204.45Chenopodium leptophyllum	0.03	0.03	0	0	0.86	24.71	6.21	4.31	116.35	61.3	276.02Chrysopsis villosa	0.06	0.06	0.02	0.02	0.58	24.05	6.24	0	148.12	58.46	50.56Comandra richardsiana	0.02	0.02	0.01	0.01	0.7	23.32	6.98	0	126.54	53.91	179.61Coreopsis palmata	0.08	0.08	0.02	0.02	0.71	49.03	28.8	0	338.42	183.6	138.18Cornus racemosa	0.2	0.21	0.06	0.06	0.7	80.83	35.5	11.19	1797.39	242.12	311.94Corylus americana	0.58	0.6	0.2	0.2	0.66	95.24	64.93	15.56	4130.01	336.72	225.77Crepis tectorum	0.03	0.03	0.01	0.01	0	40.95	3.58	0	200.49	91.61	329.46Desmodium canadense	0.26	0.26	0.07	0.07	0.69	69.01	81.08	6.83	1635.24	371.99	215.62Desmodium glutinosum	0.45	0.46	0.12	0.12	0.73	82.72	71.42	0	3823.57	295.73	318.43Elymus canadensis	0.19	0.19	0.08	0.08	0.62	196.43	10.55	0	1172.18	442.94	168.51Eragrostis spectabilis	0.11	0.11	0.04	0.04	0.61	174.78	6.85	0	627.33	380.83	150.22Erechtites hieracifolia	0.21	0.22	0.01	0.01	0.94	80.45	26.46	0	1262.54	257.57	2262.97Erigeron strigosus	0.02	0.02	0.01	0.01	0.79	24.85	4.63	0	120.93	62.95	208.55Euphorbia corollata	0.05	0.05	0.02	0.02	0.71	33.34	11.1	0	313.93	95.3	192.06Fragaria virginiana	0.23	0.29	0.07	0.09	0.69	56.43	55.53	62.37	1544.31	289.08	203.59Fraxinus virginiana	0	0	0.03	0.03	0	0	0	0	490.72	0	153.91Galium boreale	0.01	0.01	0	0	0.72	24.42	4.68	0	85.57	58.7	256.32Hedeoma hispidum	0	0	0	0	0	0	0	0	20.96	0	209.6Helianthemum bicknellii	0.02	0.02	0.01	0.01	0.65	17.37	5.47	2.73	65.41	41.05	139.59Helianthus giganteus	0.22	0.22	0.05	0.05	0.78	73.84	18.04	5.8	891.83	173.72	185.35Helianthus laetiflorus	0.41	0.42	0.09	0.09	0.77	93.43	17.82	9.53	1029.67	221.5	112.69Hieracium longipilium	0.59	0.59	0.13	0.13	0.8	119.18	21.01	0	1565.46	293.36	134.8Koeleria cristata	0.11	0.11	0.05	0.05	0.57	138.28	4.58	0	389.01	324.19	85.53Lactuca canadensis	0.75	0.86	0.11	0.13	0.85	147.35	63.25	51.22	3680.97	696.13	365.83Lathyrus venosus	0.35	0.36	0.1	0.1	0.71	64.61	62.17	8.31	1770.64	568.59	197.16Lechea stricta	0.02	0.02	0	0	0.77	14.72	1.94	0	23.39	33.53	116.96Lepidium cognatum	0	0	0.01	0.01	0	0	0	0	247.13	0	271.89Leptoloma cognatum	0.04	0.04	0.01	0.01	0.7	81	3.11	0	258.01	179.33	231.04Lespedeza capitata	0.12	0.12	0.03	0.03	0.64	36.7	41.03	4.27	339.29	185.65	134.41Liatris aspera	0.04	0.04	0.01	0.01	0.75	27.96	3.04	0	68.03	61.87	87.12Lithospermum canescens	0.14	0.14	0.03	0.03	0.78	66.31	14.89	0	700.23	147.33	172.45Lithospermum caroliniense	0.09	0.09	0.02	0.02	0.74	40.37	10.39	0	292.07	94.9	149.06Lobelia spicata	0.07	0.07	0.02	0.02	0.78	34.82	13.4	0	334.92	85.96	223.28Lychnis alba	0.13	0.13	0.03	0.03	0.89	49.34	12.7	0	580.93	127.9	241.75Maianthemum canadense	0.24	0.3	0.03	0.04	0.85	59.91	29.45	44.2	1303.36	155.3	384.97Mirabilis hirsuta	0.26	0.26	0.03	0.04	0.87	0	0	0	0	0	0Monarda fistulosa	0.14	0.14	0.04	0.04	0.77	49.38	22.51	6.69	682.48	138.4	191.25Oenothera biennis	0.16	0.16	0.03	0.03	0.78	56.42	11.43	0	440.72	132.65	131.67Oxybaphus hirsutus	0.1	0.1	0.01	0.01	0.87	54.45	11.41	3.47	457.4	130.4	197.81Panicum capillare	0.24	0.24	0.09	0.09	0.68	177	11.19	0	1365.36	408.28	165.95Panicum oligosanthes	0.05	0.05	0.02	0.02	0.7	52.44	7.33	0	304.61	116.98	205.06Panicum perlongum	0.11	0.11	0.03	0.03	0.72	135.87	2.96	0	346.27	311.9	134.26Panicum praecocius	0.05	0.05	0.01	0.01	0.71	61.61	6.91	0	331.7	144.69	280.86Panicum virgatum	0.24	0.24	0.08	0.08	0.66	300.81	7.7	0	1323.36	605.91	167.58Parthenocissus quinquefolia	0.85	1.08	0.18	0.21	0.79	113.29	105.99	76.69	5830.75	677.84	369.65Pedicularis canadensis	0.85	1.3	0	0	0	140.32	38.27	127.44	2992.61	671.29	0Penstemon gracilis	0	0.72	0	0	0	0	0	0	0	0	0Penstemon grandiflorus	0.63	0.71	0.16	0.18	0.73	61.31	35.59	36.02	1542.73	180.87	93.72Petalostemum candida	0.1	0.1	0.02	0.02	0.67	31.42	24.95	7.14	311.87	221.89	110.86Petalostemum purpureum	0.02	0.02	0.01	0.01	0.72	19.86	16.77	6.64	39.61	121.82	96.82Phlox pilosa	0.03	0.03	0	0	0.83	38.32	11.54	28.37	323.4	102.17	706.33Physalis virginiana	0.05	0.05	0.01	0.01	0.77	0	0	0	0	0	0Plantago major	0.74	0.95	0.11	0.13	0.86	80.03	49.07	62.87	3050.52	232.25	329.7Poa pratensis	0.09	0.09	0.02	0.02	0.68	461.7	1.26	0	260.57	971.7	110.63Polygala polygama	0.03	0.03	0	0	0	23.86	5.37	0	94.42	55.97	0Polygonatum biflorum	0.09	0.1	0.02	0.02	0.78	49.76	19.06	6.53	655.57	120.61	325.62Polygonum convolvulus	0.09	0.1	0.02	0.02	0.8	41.82	26.43	20.24	665.28	122.83	332.05Potentilla simplex	0.12	0.12	0.04	0.04	0.66	38.85	48.16	21.9	834.3	273.32	212.71Prunus serotina	0.39	0.41	0.11	0.11	0.68	107.14	36.4	11.85	2544.17	290.2	230.51Prunus virginiana	0.43	0.45	0.14	0.14	0.67	78.36	45.28	15.55	2417.52	255.37	158.74Quercus ellipsoidalis	1.15	1.2	0.52	0.54	0.48	140.77	90.68	14.44	7039.02	537.34	145.88Quercus macrocarpa	1.72	1.77	0.54	0.55	0.65	166.65	104.16	10.73	10903.19	496.66	133.11Ranunculus rhomboideus	0.35	0.51	0.09	0.13	0.76	46.23	31.16	103.55	963.16	138.16	129.31Rhus glabra	0.45	0.49	0.16	0.17	0.7	102.08	58.51	47.68	3292.28	605.1	314.07Rhus radicans	0.66	0.66	0	0	0	0	0	0	0	0	0Rosa arkansana	0.19	0.19	0.11	0.11	0.62	60.19	36.79	10.58	1262.94	400.12	182.57Rubus alleghaniensis	0.55	0.59	0.19	0.2	0.65	84.77	96.12	41.52	3751.26	635.92	202.42Rubus idaeus	0.66	0.7	0.17	0.18	0.74	90.65	105.59	36.35	4124.3	669.68	254.4Rubus sp.	0	0	0.07	0.07	0	0	0	0	1200.27	0	161.82Rubus strigosus	0.24	0.25	0.1	0.12	0.65	0	0	0	0	0	0Rudbeckia hirta	0.2	0.2	0.01	0.01	0.88	63.61	13.25	0	606.52	160.73	260.17Rumex acetosella	0.24	0.32	0	0	0	51.79	33.17	52.12	587.36	173.24	0Salix humilis	0.09	0.09	0.03	0.03	0.66	56.14	15.28	0	549.7	165.04	211.61Schizachyrium scoparium	0.07	0.07	0.02	0.02	0.63	155.11	4.13	18.99	407.82	346.96	199.34Scutellaria parvula	0.01	0.01	0	0	0.67	16.08	7.01	4.07	92.98	44.6	214.81Senecio pauperculus	0.15	0.19	0.03	0.04	0.81	52.34	19.41	49	658.75	132.05	227.16Sisyrinchium campestre	0.12	0.12	0.03	0.03	0.79	246.63	1.53	0	102	322.35	39.23Smilacina racemosa	0.29	0.29	0.08	0.08	0.73	85.11	19.33	0	1166.31	198.36	149.63Smilax herbacea	0.19	0.2	0.05	0.05	0.75	53.43	44.42	15.35	1724.66	174.18	371.9Solidago graminifolia	0.05	0.05	0.02	0.02	0.67	66.46	3.66	0	181.31	148.88	122.76Solidago missouriensis	0.22	0.22	0.07	0.07	0.68	96.8	13.64	0	820.9	234.58	143.03Solidago nemoralis	0.29	0.24	0.06	0.07	0.73	92.87	14.79	46.2	921.66	219.52	123.14Sorghastrum nutans	0.34	0.34	0.11	0.11	0.68	314.86	4.52	0	1034.67	676.86	119.5Spiraea alba	0.07	0.07	0.03	0.03	0.57	57.23	15.27	6.37	581.13	155.51	193.67Spiraea tomentosa	0.11	0.12	0.04	0.04	0.67	50.26	18.46	3.94	573.94	123.35	154.85Stachys palustris	0.26	0.26	0.05	0.05	0.78	59.82	17.47	0	769.02	156.85	153.48Stipa spartea	0.45	0.45	0.19	0.19	0.56	771.57	67.98	3.55	1282.81	1451.09	73.3Taraxacum officinale	0.58	0.67	0.09	0.11	0.85	123.8	45.7	52.56	3345.25	397.91	434.5Tradescantia occidentalis	0.29	0.29	0.03	0.03	0.89	126.81	6.99	0	630.23	296.83	229.14Trientalis borealis	0.07	0.07	0.01	0.01	0.82	46.38	19.64	0	550.85	127.68	416.31Trifolium pratense	0.03	0.04	0.01	0.01	0.81	19.35	16.85	28.36	190.73	141.19	381.46Vaccinium angustifolia	0.06	0.06	0.02	0.02	0.72	35.27	16.41	0	387.39	94.85	265.13Verbascum thapsus	1.43	1.65	0	0	0	105.38	47.33	27.88	3387.63	327.54	0Vicia villosa	0	0	0.03	0.03	0	0	0	0	690.69	0	265.17Viola pedatifida	0.54	0.73	0.14	0.17	0.75	58.98	81.37	114.76	1895.66	875.82	134.5Viola sagittata	0.24	0.35	0.05	0.07	0.79	62.3	30.23	94.59	1131.95	207.8	251.21Vitis riparia	0.43	0.48	0.09	0.1	0.79	82.4	73.33	37.24	3737.46	384.41	428.37Zanthoxylem americanum	0.08	0.08	0.02	0.02	0.69	40.23	19.79	3.02	632.08	103.37	272.98
+
+_________________________________________________________________________
+
+
+Methods and Protocols:
+
+
+Dataset Methods:
+
+
+Sampling
+
+For leaf trait data, the youngest fully expanded leaves were collected from 4 to 6 individuals of each species
+from within or near the experimental plots between June and August 2005.
+
+______________
+
+Experiment Methods:
+
+Fire frequency and species abundance influence composition, productivity and nutrient cycling
+
+Oak savannas are compositionally different than either the forests or grasslands they share species with, in the sense that savannas are not just a mid-point along a continuum of communities ranging from tree-dominated to grass-dominated. This is true both for ectomycorrhizal fungi and for higher vascular plants. Moreover, a number of species are most abundant in savannas (rather than forests or grasslands), supporting the idea that savannas are not just a mix of forest and grassland species at boundaries between the two. Additionally, savannas high slightly greater diversity than either grasslands or forests, largely because they contain heterogeneous habitats that supports a wider variety of species that are most common in either grassland, savanna, or forest patches (Figure 14; Peterson and Reich 2008).
+
+Peterson, D and PB Reich. 2008. Fire frequency and tree canopy structure influence plant species diversity in a forest-grassland ecotone. Plant Ecology 194:5
+______________
+
+
+Sampling: Permanent Plots
+
+A series of permanent plots have been established in the burn units to facilitate repeated sampling of tree, shrub, and herbaceous community composition. Plots are sampled every 5-6 years to monitor changes in structure and composition. The first twelve of these were established in CCNHA Fish Lake burn units in 1984 as part of experiment 015. Additional plots were added in 1990 as part of experiment 094, including four additional plots in the Fish Lake burn units, five in the "Davis grid" savanna area west of East Bethel boulevard, and three in the Allison Savanna burn units. Finally, three new plots were added in 1995, two in old fields and one in burn unit 104. Each plot consists of four parallel 50-meter transects placed 25 meters apart, outlining an area 50m x 75m. Points for quadrat sampling of herb and shrub cover are placed at 10 meter intervals along each transect for a total of 24 sample points per plot. (Note: the two old field plots, 22 and 28, were laid out as two 110-meter transects placed 25 meters apart, again producing 24 sample points.) Endpoints of each transect are marked with fenceposts (T-posts). The fencepost on the front end of each transect (points 1, 7, 13 and 19) are labeled with aluminum tags identifying the experiment (E133), plot number, and transect number. Interior sample points on each transect were marked by rebar posts starting in 1995 to facilitate true repeated sampling at each point. 
+______________
+
+
+Sampling: Trees
+
+All trees within the 50m x 75m area were tagged in 1995 using numbered round aluminum tags. Tags were nailed to the tree at a height of 1.3-1.7 meters and facing the front of the plot (the long side with labeled fenceposts). Trees on many of the plots were previously tagged as part of experiment 094. These foil tags appear to have been highly susceptible to fire and animal damage, however, and were missing from a large proportion of the trees. Old and new tag numbers were matched up for the vast majority of trees, however, so individual trees can still be followed over time. The aluminum nails from the old tags are valuable, however, because the E094 diameter measurements were made 1 centimeter above this nail. The 1995 measurements were made at "breast height" (about 1.35 meters) as determined by the field crews, so there may be some inconsistencies between 1990 and 1995 measurements. Trees were surveyed in 1995 for species identification, status (alive, dead, snag, fallen), and diameter at breast height (dbh). Previous surveys also recorded approximate tree height and crown vigor (ordinal scale, 1-5) on some plots. On many of the plots, trees were also mapped to the nearest 0.1 meter using the "Topcon Total Station" surveying equipment. Since readings were taken to the edge of the tree, the true accuracy is probably somewhere between 0.1 and 0.4 meters. The mapping process included all tagged trees (>= 5 cm) and the understory vegetation sample points. 
+______________
+
+
+Sampling: Oak seedling survival and demographics
+
+This portion of the study is designed to improve our understanding of the influence of fire frequency and canopy cover on the spatial patterns, growth, and mortality/survival rates of oak seedlings. Belt transects have been established in five burn units representing the complete range of burn frequencies: unit 110 (no burns), 113 (4 burns/32 years), 107 (11/32), 105 (15/32), and 104 (26/32). In burn unit 104, there are four 100-m long transects placed within the macroplot (see E134). In the remaining units, there are three transects of 40 meters each within the permanent plots used for this study. Oak stems, both new germinants and older seedlings/sprouts have been tagged for long-term demographic studies. All oak stems less than 5 cm dbh that lie within 0.5 meter on either side of the transect are tagged with numbered aluminum tags. If an individual has multiple stems, only one stem is tagged. Tag number, location, species, height, and diameter are recorded for each individual at the time it is tagged. The position of each individual relative to the tree canopy is also noted as one of the following: under canopy, canopy edge, or open. Individuals are surveyed annually to assess both mortality and deer browse. 
+______________
+
+
+Field Operations: Prescribed Burning
+
+A prescribed burning program was initiated at CCESR in 1964 to restore and maintain oak savanna and woodland vegetation and to test the effectiveness of different prescribed burning treatments. An area of about 210 hectares was divided into 14 management units of 2.4 to 30 hectares each. Each unit was assigned to one of seven burn frequency treatments, ranging from annual burns to complete fire exclusion, which are shown in the following table.
+Cedar Creek Burn Units - Prescribed Burning Record 
+
+Year/BurnUnit	101	102	103	104	105	106	107	108	109(309)	110	111	113	115	116	117	201	209	401	409	503	504	506	602	603	703	CCN(220)	AS1	AS2	AS3
+1962																												04/26/1962	04/26/1962
+1963																												08/30/1963	05/02/1963
+1964	05/23/1964																	04/23/1964											04/12/1964
+1965	04/28/1965	05/07/1965	04/07/1965	05/07/1965	05/07/1965													04/28/1965											
+1966	04/13/1966	04/12/1966	04/25/1966	04/13/1966	04/25/1966	04/25/1966	08/30/1966											04/13/1966											
+1967	04/27/1967	04/01/1967	04/14/1967	05/05/1967	05/05/1967	07/31/1967	09/06/1967	04/10/1967								04/27/1967		04/27/1967											
+1968		04/15/1968	04/26/1968	04/26/1968				04/29/1968				04/29/1968				04/26/1968													04/12/1968
+1969			05/12/1969	05/12/1969		04/23/1965	04/23/1969				05/14/1969																	08/27/1969	
+1970	05/04/1970			05/04/1970		05/19/1970												05/04/1970											
+1971			04/21/1971	04/29/1971	04/29/1971			05/12/1971																					
+1972	05/08/1972	04/17/1972	05/18/1972	04/25/1972	04/25/1972	04/17/1972		04/25/1972								05/08/1972		05/08/1972											04/17/1972
+1973	04/26/1973	04/26/1973	05/16/1973	04/26/1973	05/16/1973	05/15/1973	05/16/1973									05/26/1973		04/26/1973											
+1974		04/16/1974	04/16/1974	05/18/1974																								07/19/1974	04/24/1974
+1975		05/05/1975		05/05/1975		05/12/1975	05/12/1975	05/12/1975																					05/24/1975
+1976	04/26/1976		04/26/1976	04/29/1976		04/29/1976						05/06/1976				04/26/1976		04/25/1976											05/01/1976
+1977	04/25/1977		04/25/1977	04/26/1977	04/26/1977											04/25/1977		04/25/1977											
+1978	05/01/1978	04/28/1978	04/28/1978		05/15/1978	05/01/1978		05/10/1978																					
+1979		04/23/1979	04/23/1979	04/23/1979		05/15/1979	04/23/1979	05/15/1979								05/16/1979													
+1980			04/17/1980	05/14/1980			05/14/1980									05/21/1980													
+1981	05/12/1981	05/07/1981	05/07/1981	05/20/1981		05/05/1981	05/18/1981				05/12/1981																		
+1982	04/20/1982					05/24/1982		04/26/1982																					
+1983			05/05/2012	04/25/2012	05/05/2012			05/11/2012				05/25/2012																04/11/2012	04/11/2012
+1984		04/19/2012	05/10/2012		05/10/2012	04/17/2012																						04/19/2012	04/19/2012
+1985			04/19/2012		04/29/2012	04/11/2012	05/07/2012				05/05/2012					05/07/2012													
+1986	05/07/2012	04/10/2012									5/5?					05/07/2012		05/07/2012										04/16/2012	04/16/2012
+1987			05/04/1987											05/06/1987													10/06/1987		
+1988				05/19/1988		05/18/1988		04/11/1988																					
+1989			04/25/1989	05/12/1989	05/12/1989		04/25/1989							05/11/1989															
+1990		05/03/1990	05/03/1990	05/03/1990	05/03/1990	05/03/1990								05/05/1990															
+1991	05/14/1991			05/14/1991		05/14/1991										05/14/1991													
+1992	05/14/1992	05/08/1992	05/08/1992	05/14/1992		05/14/1992		05/08/1992					05/08/1992	05/08/1992		05/14/1992													
+1993	05/05/1993		05/12/1993	05/12/1993		05/05/1993										05/05/1993													
+1994			05/05/1994	04/22/1994	04/22/1994	04/20/1994		05/10/1994			04/20/1994	05/12/1994				04/21/1994		04/21/1994											
+1995	05/03/1995	01/29/1995	05/05/1995	05/12/1995												05/03/1995		05/03/1995											
+1996			05/07/1996	05/16/1996	05/16/1996	04/29/1996	04/29/1996							04/30/1996		05/07/1996		05/07/1996	05/13/1996	09/20/1996									
+1997	05/01/1997		04/25/1997			04/21/1997		04/28/1997					05/06/1997	05/06/1997		04/17/1997		05/01/1997	04/29/1997										
+1998			04/17/1998																	04/231998	04/18/1998								
+1999		04/28/1999		04/26/1999	04/26/1999	04/24/1999	04/24/1999												04/26/1999										
+2000	05/02/2000		05/24/2000	04/24/2000		04/28/2000		04/26/2000					05/02/2000		05/02/2000				04/26/2000										
+2000	10/11/2001	10/11/2001	10/11/2001	10/11/2001	10/11/2001				10/11/2001							10/11/2001		10/11/2001											
+2001																													
+2002		05/14/2002	04/30/2002	05/14/2002		04/26/2002	04/26/2002							04/30/2002															
+2003	04/24/2003		04/11/2003	04/12/2003	04/12/2003	04/08/2003		04/09/2003			04/25/2003		04/08/2003	04/08/2003	04/23/2003	04/24/2003		04/24/2003	04/09/2003										
+2004			04/22/2004													04/22/2004		04/22/2004	04/24/2004										
+2005	04/15/2005	04/14/2005	04/14/2005	04/14/2005	04/14/2005	04/21/2005	04/21/2005						04/21/2005	04/21/2005	04/21/2005	04/15/2005		04/15/2005	04/14/2005										
+2006				04/27/2006	04/27/2006	04/19/2006						04/24/2006				04/19/2006			04/27/2006										
+2007	04/20/2007	04/20/2007	04/20/2007	04/20/2007	04/20/2007		04/19/2007	04/19/2007								04/20/2006		04/20/2007	04/20/2007										
+2008	05/01/2008					05/01/2008							05/01/2008	05/01/2008	05/01/2008	05/01/2008				05/01/2008	05/01/2008	05/01/2008	05/01/2008	05/01/2008	05/01/2008				
+2009	04/28/2009	04/28/2009	04/28/2009	05/11/2009	05/11/2009	04/22/2009										04/28/2009		04/28/2009	05/05/2009	05/04/2009	05/04/2009	05/04/2009	05/11/2009	05/11/2009	05/11/2009				
+2010			04/19/2010	04/22/2010			04/18/2010	04/19/2010						04/09/2010	04/09/2010				04/19/2010	04/08/2010	04/09/2010	04/09/2010	04/09/2010	04/09/2010	04/09/2010				
+2011	04/25/2011	04/25/2011	04/25/2011	05/04/2011	05/04/2011	04/25/2011										04/25/2011		04/25/2011	05/04/2011	05/03/2011	05/04/2011	04/12/2011							
+2012			04/01/2012	04/17/2012		03/28/2012							04/01/2012	04/01/2012	04/01/2012				04/12/2012	03/28/2012	04/12/2012	04/12/2012	04/01/2012		04/01/2012				
+2013								05/07/2013											05/07/2013										
+2014	05/05/2014	05/05/2014	05/05/2014		05/18/2014	04/22/2014	04/22/2014									05/05/2014		05/05/2014	05/18/2014										
+2015		05/05/2016	04/30/2015	05/05/2015	05/05/2015	04/23/2015					04/27/2015		04/16/2015	04/16/2015	04/16/2015					04/23/2015			04/16/2015	04/16/2015	04/16/2015				
+2016	04/13/2016						04/12/2016	04/17/2016								04/13/2016		04/13/2016		04/12/2016	04/17/2016	04/17/2016							
+
+
+Notes:
+
+Date	Burn Unit 	Comments
+-/-/1998	503	Possibly burned
+04/29/2000	502	Western Half Burned
+10/11/2001	103	Wild Fire
+10/11/2001	104	Wild Fire
+10/11/2001	105	Wild Fire/Southwest 1/3 didn't burn
+10/11/2001	109(309)	Wild Fire/Eastern Edge
+10/11/2001	201	Wild Fire
+10/11/2001	204	Wild Fire
+10/11/2001	301	Wild Fire
+10/11/2001	401	Wild Fire
+10/11/2001	701	Wild Fire/ North of 701 to Hub Street
+04/24/2006	113	Arson/ Northwest of BioCON
+04/15/2009	113	NW across road of 113
+
+
+The first burn was conducted in 1964, and all units not designated for fire protection had been burnt at least once by 1969. Two additional burn units west of East Bethel Blvd. received prescribed burns beginning in 1987 and 1992. Additional burn units have been added to the program in 1996, including 3 units along the west side of East Bethel Blvd., and one unit (409) that is a portion of one of the original "no burn" units. The Nature Conservancy began a similar prescribed burning experiment in 1962 on their 20 hectare Helen Allison Savanna property, which is adjacent to the Cedar Creek burn units. Eight rectangular 1-ha burn units were outlined on the east end of the property in a 4x2 design. The remaining 12 hectares were managed with protection from fire until 1987, when this unit was added to the burning program for conservation purposes. Prescribed fires are generally conducted in the spring using a form of the strip-headfire method. Firebreaks are disked in the spring prior to burning to remove most fuels. In areas where permanent fire breaks do not exist, the grass layer is mowed to produce a 1-2 meter wide fuel break. A backfire is started along the lee side of the burn unit, to widen the firebreak. Flanking fires are then lit along the sides of the units and monitored until a sufficiently wide blackline is produced. Finally, a headfire is started along the windward edge of the unit to complete the burn. 
+______________
+
+
+Sampling: Nitrogen cycling
+
+Annual and seasonal nitrogen mineralization rates were estimated on 20 of the permanent plots in 1995. Six of these plots have been designated for long-term monitoring of N mineralization. N mineralization was measured over 5 incubation periods (approx. 30-45 days each) throughout the active growing season (mid-April to mid-October) in 1995. Eight replicates were used in each plot, corresponding to the same eight sample points used in the root core and litter trap samples (points 8-11, 14-17). We used a modified buried bag method to measure N mineralization as developed by Dave Wedin. At each point, a 0.75 inch diameter by 15 cm long soil core was removed from the sample area. This was our "initial" sample. A paired core was placed within 10 cm of the "initial" sample by pounding a sharpened piece of 0.75" diameter PVC pipe into the ground to a depth of 15 cm. The top of the pipe was plugged with a rubber cork to prevent water flow through the pipe. Air holes drilled between the soil surface and the cork facilitated ventilation of the sample during incubation. At the end of the incubation period, the PVC cores were extracted and returned to the laboratory for processing. Samples (both initial and final) were processed using standard Cedar Creek methods and will be described only briefly here. Samples are first homogenized. Soil nitrogen is extracted in 50 ml of 1 molar KCL solution and processed through the Cedar Creek autoanalyzer . Soil moisture content is determined gravimetrically. Additional soil cores were removed in fall of 1995 for purposes of measuring total soil carbon and nitrogen. At each of the 160 sample points used for the N mineralization measurements, four soil cores (0.75" diam. by 30 cm length) were removed from roughly evenly-spaced points along a 0.75 meter strip adjacent to the herbaceous vegetation sampling area. Each of these cores were divided into three depth segments (0-5, 5-15, and 15-30 cm) and pooled by depth. Two cores were extended to a depth of 50 cm and these two subsamples were pooled to produce a fourth depth sample (30-50 cm). Samples were dried and sifted to remove root material. A subsample was homogenized using a coffee mill and stored in a plastic sample bag for carbon and nitrogen analysis. The remainder of the sample was placed in a larger sample bag and archived for future use.
+Permanent Plot Data Collection - 1995/1996 Field Seasons 
+
+Burn Unit 	Plot No. 	Tree Tags 	Tree Survey 	Sample Points Mapped 	Trees Mapped 	Shrub Layer Survey 	Herb Layer Survey 	Canopy LAI Readings 	Tree Cores 	N Min. 	Root Core
+101 	1 	Y 	Y 	Y 	Y 	Y 	Y 	Y 	Y 	Y 	Y
+101 	*21 	- 	- 	Y 	- 	- 	Y 	- 	- 	- 	-
+102 	*22 	- 	- 	Y 	- 	- 	Y 	- 	- 	- 	-
+103 	3 	Y 	Y 	Y 	Y 	Y 	Y 	Y 	Y 	Y 	Y
+104 	4 	Y 	Y 	Y 	Y 	Y 	Y 	Y 	Y 	Y 	Y
+104 	24 	Y 	Y 	Y 	Y 	Y 	Y 	Y 	Y 	Y 	-
+105 	5 	Y 	Y 	Y 	Y 	Y 	Y 	Y 	Y 	Y 	Y
+106 	6 	Y 	Y 	Y 	Y 	Y 	Y 	Y 	Y 	Y 	Y
+107 	7 	Y 	Y 	Y 	Y 	Y 	Y 	Y 	Y 	Y 	-
+108 	8 	Y 	Y 	Y 	Y 	Y 	Y 	Y 	Y 	Y 	Y
+108 	*28 	- 	- 	Y 	- 	- 	Y 	Y 	- 	- 	-
+109(309) 	15 	Y 	Y 	Y 	Y 	Y 	Y 	Y 	Y 	Y 	Y
+301 	18 	Y 	Y 	Y 	Y 	Y 	Y 	Y 	Y 	Y 	-
+110 	10 	Y 	Y 	Y 	- 	Y 	Y 	Y 	- 	Y 	Y
+111 	11 	Y 	Y 	Y 	Y 	Y 	Y 	Y 	- 	Y 	-
+113 	13 	Y 	Y 	Y 	Y 	Y 	Y 	Y 	Y 	Y 	Y
+115 	903 	Y 	Y 	Y 	Y 	Y 	Y 	Y 	Y 	Y 	-
+115 	904 	Y 	Y 	Y 	- 	Y 	Y 	Y 	- 	Y 	Y
+116 	901 	Y 	Y 	Y 	- 	Y 	Y 	Y 	- 	Y 	-
+116 	902 	Y 	Y 	Y 	- 	Y 	Y 	Y 	- 	Y 	-
+117 	905 	Y 	Y 	Y 	- 	Y 	Y 	Y 	- 	Y 	-
+201 	16 	Y 	Y 	Y 	Y 	Y 	Y 	Y 	Y 	Y 	-
+209 	9 	Y 	Y 	Y 	- 	Y 	Y 	Y 	Y 	Y 	-
+409 	17 	Y 	Y 	Y 	- 	- 	Y 	Y 	- 	- 	-
+409 	19 	Y 	Y 	Y 	- 	Y 	Y 	Y 	- 	- 	-
+CCN(220) 	20 	Y 	Y 	Y 	- 	Y 	Y 	Y 	- 	- 	-
+AS1 	101 	X 	Y 	- 	- 	Y 	Y 	Y 	- 	- 	-
+AS2 	102 	X 	Y 	- 	- 	Y 	Y 	Y 	- 	- 	-
+AS3 	103 	X 	Y 	- 	- 	Y 	Y 	Y 	- 	- 	-
+
+* denotes old field plot.  CCN(220) located in an unburned area north of Cedar Bog Lake.  AS1, AS2, AS3 all located in Helen Allison Savanna area. 
+______________
+
+
