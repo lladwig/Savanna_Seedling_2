@@ -23,9 +23,9 @@ sp_trait_herb_cut<-sp_trait_herb %>% filter(present=="yes")
 
 group_means <- sp_trait_herb_cut %>%
   group_by(location) %>%
-  dplyr::summarise(height_mean = mean(height, na.rm = TRUE),
+  dplyr::summarise(height_mean = log(mean(height, na.rm = TRUE)),
             sla_mean = mean(sla, na.rm=TRUE),
-            seed_mean = mean(seed, na.rm=TRUE))
+            seed_mean = log(mean(seed, na.rm=TRUE)))
 
 ## Plotting --------------------------
 # To Do: Separate plots for each trait. within each plot graph the distribution of the trait of choice from the three classes (past savanna, seed mix, degraded savanna)
